@@ -43,11 +43,9 @@ body{
 
 }
 
-.translate{
-    font-weight: bold;
-    color: #fff;
+
     
-}
+
 h1{
     font-family: 'Montserrat', sans-serif;
     font-size: 3rem;
@@ -123,8 +121,12 @@ p{
     background-color: #F0A500;
     text-align: center;
     padding: 5% 13%;
-    
 
+}
+
+.testimonial-image{
+    width: 20%;
+    border-radius: 100%;
 }
 
 /*testimonials-carousel*/
@@ -149,4 +151,5 @@ p{
     }
     
 }
+
 
