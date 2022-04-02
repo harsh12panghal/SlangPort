@@ -137,7 +137,17 @@ p{
 
 /*Popular slang*/
 
+/* SOCIALS IN FOOTER */
 
+.footer-link > img{
+    width: 2.5rem;
+    filter: grayscale();
+    transition: all 0.2s ease;
+}
+
+.footer-link > img:hover{
+    filter: grayscale(0);
+}
 
 @media (max-width:1028px) {
 
